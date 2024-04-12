@@ -6,7 +6,7 @@ public class Main {
     {
     System.out.print("Amigo ");
     System.out.print("The ");
-    System.out.print("Best");
+    System.out.print("Best2");
     }
 }
 
